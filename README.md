@@ -15,4 +15,4 @@ Storage | 64 GB/128 GB
 MicroSD | Up to 128 GB
 Battery | 6020 mAh (non-removable)
 Display | 1080 x 1920 pixels
-Release Date | May 2016
+Release Date | 2016
