@@ -1,7 +1,7 @@
 # TWRP_Device_Tree-2677493516
 TeamWin Recovery Project
 
-Device configuration for GIONEE GN8002  (_santoni_)
+Device configuration for GIONEE GN8002
 =====================================================
 
 Basic   | Spec Sheet
