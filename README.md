@@ -1,4 +1,4 @@
-# TWRP_Device_Tree-2677493516
+# TWRP_Device_Tree-GN8002
 TeamWin Recovery Project
 
 Device configuration for GIONEE GN8002
