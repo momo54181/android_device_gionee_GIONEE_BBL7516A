@@ -6,7 +6,7 @@ Device configuration for GIONEE GN8002
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-CPU     | Octa-core 1.9 GHz Cortex-A53
+CPU     | 2.0GHz Octa-Core MT6755 (Helio P10)
 CHIPSET | MediaTek Helio P10
 GPU     | Mali-T860
 Memory  | 4 GB
