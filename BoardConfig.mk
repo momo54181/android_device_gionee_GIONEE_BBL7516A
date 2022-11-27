@@ -87,3 +87,9 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 TW_BRIGHTNESS_PATH := /sys/devices/platform/leds-mt65xx/leds/lcd-backlight/brightness
 TW_CUSTOM_CPU_TEMP_PATH := /sys/devices/virtual/thermal/thermal_zone1/temp
+
+# OrangeFox Recovery
+#OF_FL_PATH1 := /sys/class/leds/torch-light
+#FOX_USE_TAR_BINARY := 1
+OF_MAINTAINER := Momo
+OF_FLASHLIGHT_ENABLE := false
