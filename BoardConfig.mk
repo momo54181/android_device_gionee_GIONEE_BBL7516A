@@ -85,8 +85,6 @@ TW_USE_TOOLBOX := true
 TW_INCLUDE_CRYPTO := true
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
-TW_BRIGHTNESS_PATH := /sys/devices/platform/leds-mt65xx/leds/lcd-backlight/brightness
-TW_CUSTOM_CPU_TEMP_PATH := /sys/devices/virtual/thermal/thermal_zone1/temp
 
 # Crypto
 TW_INCLUDE_CRYPTO := true
